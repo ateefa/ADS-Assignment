@@ -1,6 +1,6 @@
 # ADS Assignment 
 # NAME - ATEEFA ATEEQUE
-# ROll - 13
+# ROll - 13 (6B)
 # RANDOMIZATION ALGORITHMS
 # PRIMALITY TEST
 # Short description of my code -----
